@@ -1,0 +1,42 @@
+{
+  "preset": [
+    {
+      "key": 1,
+      "presetname": "フィクサ・アタック",
+      "effectcompetitive": [0, 8, 9, 9.5, 9.75, 10]
+    },
+    {
+      "key": 2,
+      "presetname": "フィクサ・テルミナ",
+      "effectcompetitive": [0, 0, 0, 0, 0, 0, 0],
+      "conditionalcompetitive": [0, 20, 23, 26, 28, 29]
+    },
+    {
+      "key": 3,
+      "presetname": "フィクサ・フェタル",
+      "effectcompetitive": [0, 0, 0, 0, 0, 0, 0]
+    },
+    {
+      "key": 4,
+      "presetname": "フィクサ・ウィクス",
+      "effectcompetitive": [0, 2, 2, 2, 2, 2],
+      "conditionalcompetitive": [0, 8, 9, 10, 11, 12]
+    },
+    {
+      "key": 5,
+      "presetname": "フィクサ・アンウィクス",
+      "effectcompetitive": [0, 2, 2, 2, 2, 2],
+      "conditionalcompetitive": [0, 5, 8, 11, 13, 15]
+    },
+    {
+      "key": 6,
+      "presetname": "フィクサ・ブラストル",
+      "effectcompetitive": [0, 7, 8, 8.5, 8.75, 9]
+    },
+    {
+      "key": 7,
+      "presetname": "フィクサ・アバンダク",
+      "effectcompetitive": [0, 2, 2, 2, 2, 2]
+    }
+  ]
+}

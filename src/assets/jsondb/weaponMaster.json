@@ -1,0 +1,37 @@
+{
+  "normal": [
+    {
+      "key": 1,
+      "weaponname": "レクシオ",
+      "rare": "Legend.4",
+      "attackvalue": 1573,
+      "persistent": "追輝の型",
+      "effectcompetitive": 62,
+      "effectcontet": "エネミーに250,000ダメージを与えたとき<br/>自身とパーティメンバーに追加攻撃を1つストック<br/>ストックは最大4つまで獲得<br/>リキャスト5秒／<br/><br/>エネミーに攻撃命中時ストックを1つ消費して追加攻撃を行い<br/>HPを2%回復<br/>追加攻撃が4回発生時15秒間クリティカル威力+5%",
+      "lowercompetitive": 50,
+      "conditionalcompetitive": 62
+    },
+    {
+      "key": 2,
+      "weaponname": "アルバラディオ",
+      "rare": "14",
+      "attackvalue": 1478,
+      "persistent": "秘樹の型・極式",
+      "effectcompetitive": 60,
+      "effectcontet": "クリティカル発生率+5%／<br/>PP消費量軽減+10%／<br/>ダメージ耐性+10%／<br/>10秒ごとにHPを4%回復<br/>装備から10秒後に効果発動",
+      "lowercompetitive": 50,
+      "conditionalcompetitive": 60
+    },
+    {
+      "key": 3,
+      "weaponname": "アルセ",
+      "rare": "14",
+      "attackvalue": 1478,
+      "persistent": "気隆の型",
+      "effectcompetitive": 63,
+      "effectcontet": "PP消費量増加+50%／<br/>PPを250消費するたび<br/>　最大PP+50、最大PPは500まで増加<br/>最大PPに応じて以下の効果が追加<br/>　PP300以上：攻撃時PBゲージ増加+20%<br/>　PP400以上：PB発動時HP回復+50%<br/>　PP500以上：PB使用時間短縮10%",
+      "lowercompetitive": 50,
+      "conditionalcompetitive": 60
+    }
+  ]
+}

@@ -1,0 +1,1366 @@
+{
+  "normal": [
+    {
+      "category": "A9",
+      "opname": "グラングラディエ・ソール",
+      "hp": 25,
+      "pp": 7,
+      "competitive": 3.75,
+      "lowercompetitive": 0,
+      "damageresist": 0,
+      "statusresist": 0
+    },
+    {
+      "category": "A9",
+      "opname": "グラングラディエ・ソールLC",
+      "hp": 25,
+      "pp": 7,
+      "competitive": 3.5,
+      "lowercompetitive": 0,
+      "damageresist": 0,
+      "statusresist": 0
+    },
+    {
+      "category": "A9",
+      "opname": "マシスグラディエ・ソール",
+      "hp": 35,
+      "pp": 5,
+      "competitive": 4.75,
+      "lowercompetitive": 0,
+      "damageresist": 0,
+      "statusresist": 0
+    },
+    {
+      "category": "A9",
+      "opname": "エルガグラディエ・ソール",
+      "hp": 30,
+      "pp": 8,
+      "competitive": 5.75,
+      "lowercompetitive": 0,
+      "damageresist": 0,
+      "statusresist": 0
+    },
+    {
+      "category": "A9",
+      "opname": "エルガグラディエ・ソールLC",
+      "hp": 30,
+      "pp": 8,
+      "competitive": 5.5,
+      "lowercompetitive": 0,
+      "damageresist": 0,
+      "statusresist": 0
+    },
+    {
+      "category": "A9",
+      "opname": "アトスグラディエ・ソール",
+      "hp": 50,
+      "pp": 5,
+      "competitive": 5.75,
+      "lowercompetitive": 0,
+      "damageresist": 0,
+      "statusresist": 0
+    },
+    {
+      "category": "A12",
+      "opname": "ウルティア・ドミナ",
+      "hp": 30,
+      "pp": 6,
+      "competitive": 4.25,
+      "lowercompetitive": 0,
+      "damageresist": 0,
+      "statusresist": 0
+    },
+    {
+      "category": "A12",
+      "opname": "ウルティア・ドミナLC",
+      "hp": 30,
+      "pp": 6,
+      "competitive": 3.75,
+      "lowercompetitive": 0,
+      "damageresist": 0,
+      "statusresist": 0
+    },
+    {
+      "category": "A12",
+      "opname": "テルフィア・ドミナ",
+      "hp": 45,
+      "pp": 6,
+      "competitive": 5,
+      "lowercompetitive": 0,
+      "damageresist": 0,
+      "statusresist": 0
+    },
+    {
+      "category": "A21",
+      "opname": "ルクスハルフィニリア",
+      "hp": 20,
+      "pp": 6,
+      "competitive": 5,
+      "lowercompetitive": 0,
+      "damageresist": 0,
+      "statusresist": 0
+    },
+    {
+      "category": "A21",
+      "opname": "ルクスハルフィニリアLC",
+      "hp": 20,
+      "pp": 6,
+      "competitive": 4.5,
+      "lowercompetitive": 0,
+      "damageresist": 0,
+      "statusresist": 0
+    },
+    {
+      "category": "A21",
+      "opname": "マシスハルフィニリア",
+      "hp": 10,
+      "pp": 8,
+      "competitive": 5,
+      "lowercompetitive": 0,
+      "damageresist": 0,
+      "statusresist": 0
+    },
+    {
+      "category": "A21",
+      "opname": "ロイスハルフィニリア",
+      "hp": 35,
+      "pp": 7,
+      "competitive": 6,
+      "lowercompetitive": 0,
+      "damageresist": 0,
+      "statusresist": 0
+    },
+    {
+      "category": "A21",
+      "opname": "ロイスハルフィニリアMN",
+      "hp": -5,
+      "pp": 7,
+      "competitive": 6,
+      "lowercompetitive": 0,
+      "damageresist": 0,
+      "statusresist": 0
+    },
+    {
+      "category": "A21",
+      "opname": "ロイスハルフィニリアLC",
+      "hp": 35,
+      "pp": 3,
+      "competitive": 5.5,
+      "lowercompetitive": 0,
+      "damageresist": 0,
+      "statusresist": 0
+    },
+    {
+      "category": "A21",
+      "opname": "アトスハルフィニリア",
+      "hp": 15,
+      "pp": 10,
+      "competitive": 6,
+      "lowercompetitive": 0,
+      "damageresist": 0,
+      "statusresist": 0
+    },
+    {
+      "category": "A15",
+      "opname": "グランギガス・マエスティ",
+      "hp": 30,
+      "pp": 0,
+      "competitive": 4.75,
+      "lowercompetitive": 0,
+      "damageresist": 0,
+      "statusresist": 0
+    },
+    {
+      "category": "A15",
+      "opname": "グランギガス・マエスティLC",
+      "hp": 30,
+      "pp": 0,
+      "competitive": 4.25,
+      "lowercompetitive": 0,
+      "damageresist": 0,
+      "statusresist": 0
+    },
+    {
+      "category": "A15",
+      "opname": "マシスギガス・マエスティ",
+      "hp": 0,
+      "pp": 4,
+      "competitive": 4.75,
+      "lowercompetitive": 0,
+      "damageresist": 0,
+      "statusresist": 0
+    },
+    {
+      "category": "A15",
+      "opname": "エルガギガス・マエスティ",
+      "hp": 40,
+      "pp": 0,
+      "competitive": 5.75,
+      "lowercompetitive": 0,
+      "damageresist": 0,
+      "statusresist": 0
+    },
+    {
+      "category": "A15",
+      "opname": "エルガギガス・マエスティLC",
+      "hp": 40,
+      "pp": 0,
+      "competitive": 5.5,
+      "lowercompetitive": 0,
+      "damageresist": 0,
+      "statusresist": 0
+    },
+    {
+      "category": "A15",
+      "opname": "アトスギガス・マエスティ",
+      "hp": 0,
+      "pp": 5,
+      "competitive": 5.75,
+      "lowercompetitive": 0,
+      "damageresist": 0,
+      "statusresist": 0
+    },
+    {
+      "category": "A16",
+      "opname": "グランドレド・キーパII",
+      "hp": 40,
+      "pp": 4,
+      "competitive": 3.25,
+      "lowercompetitive": 6,
+      "damageresist": 1,
+      "statusresist": 0
+    },
+    {
+      "category": "A16",
+      "opname": "グランドレド・キーパIILC",
+      "hp": 40,
+      "pp": 4,
+      "competitive": 2.75,
+      "lowercompetitive": 6,
+      "damageresist": 1,
+      "statusresist": 0
+    },
+    {
+      "category": "A16",
+      "opname": "マシスドレド・キーパII",
+      "hp": 70,
+      "pp": 0,
+      "competitive": 3.25,
+      "lowercompetitive": 6,
+      "damageresist": 1,
+      "statusresist": 0
+    },
+    {
+      "category": "A16",
+      "opname": "エルガドレド・キーパ",
+      "hp": 50,
+      "pp": 5,
+      "competitive": 3.75,
+      "lowercompetitive": 7,
+      "damageresist": 1,
+      "statusresist": 0
+    },
+    {
+      "category": "A16",
+      "opname": "エルガドレド・キーパMN",
+      "hp": 50,
+      "pp": 5,
+      "competitive": 3.5,
+      "lowercompetitive": 7,
+      "damageresist": 1,
+      "statusresist": 0
+    },
+    {
+      "category": "A16",
+      "opname": "エルガドレド・キーパLC",
+      "hp": 10,
+      "pp": 1,
+      "competitive": 3.75,
+      "lowercompetitive": 7,
+      "damageresist": 1,
+      "statusresist": 0
+    },
+    {
+      "category": "A16",
+      "opname": "アトスドレド・キーパ",
+      "hp": 90,
+      "pp": 0,
+      "competitive": 3.75,
+      "lowercompetitive": 7,
+      "damageresist": 1,
+      "statusresist": 0
+    },
+    {
+      "category": "A28",
+      "opname": "ギガドライエル",
+      "hp": 0,
+      "pp": 3,
+      "competitive": 4.5,
+      "lowercompetitive": 0,
+      "damageresist": 1,
+      "statusresist": 5
+    },
+    {
+      "category": "A28",
+      "opname": "ギガドライエルLC",
+      "hp": 0,
+      "pp": 3,
+      "competitive": 4,
+      "lowercompetitive": 0,
+      "damageresist": 1,
+      "statusresist": 5
+    },
+    {
+      "category": "A28",
+      "opname": "テラドライエル",
+      "hp": 0,
+      "pp": 4,
+      "competitive": 5.5,
+      "lowercompetitive": 0,
+      "damageresist": 1,
+      "statusresist": 5
+    },
+    {
+      "category": "A28",
+      "opname": "テラドライエルMN",
+      "hp": 0,
+      "pp": 4,
+      "competitive": 5.25,
+      "lowercompetitive": 0,
+      "damageresist": 1,
+      "statusresist": 5
+    },
+    {
+      "category": "A28",
+      "opname": "テラドライエルLC",
+      "hp": -40,
+      "pp": 0,
+      "competitive": 5.5,
+      "lowercompetitive": 0,
+      "damageresist": 1,
+      "statusresist": 5
+    },
+    {
+      "category": "A32",
+      "opname": "ラーゼ・スタムパルフト",
+      "hp": 20,
+      "pp": 0,
+      "competitive": 6.5,
+      "lowercompetitive": 0,
+      "damageresist": 0,
+      "statusresist": 0
+    },
+    {
+      "category": "A32",
+      "opname": "ラーゼ・スピレパルフト",
+      "hp": 0,
+      "pp": 6,
+      "competitive": 6.5,
+      "lowercompetitive": 0,
+      "damageresist": 0,
+      "statusresist": 0
+    },
+    {
+      "category": "A32",
+      "opname": "ラーゼ・スタピパルフト",
+      "hp": 10,
+      "pp": 3,
+      "competitive": 6.5,
+      "lowercompetitive": 0,
+      "damageresist": 0,
+      "statusresist": 0
+    },
+    {
+      "category": "A32",
+      "opname": "ラーゼ・アルムパルフト",
+      "hp": 0,
+      "pp": 0,
+      "competitive": 6.5,
+      "lowercompetitive": 1,
+      "damageresist": 0,
+      "statusresist": 0
+    },
+    {
+      "category": "A32",
+      "opname": "ラーゼ・ガーディパルフト",
+      "hp": 0,
+      "pp": 0,
+      "competitive": 6.5,
+      "lowercompetitive": 0,
+      "damageresist": 2.5,
+      "statusresist": 0
+    },
+    {
+      "category": "A32",
+      "opname": "ラーゼ・レジリパルフト",
+      "hp": 0,
+      "pp": 0,
+      "competitive": 6.5,
+      "lowercompetitive": 0,
+      "damageresist": 0,
+      "statusresist": 20
+    },
+    {
+      "category": "A32",
+      "opname": "ラーゼ・スタダシャ",
+      "hp": 20,
+      "pp": 0,
+      "competitive": 6.5,
+      "lowercompetitive": 0,
+      "damageresist": 0,
+      "statusresist": 0
+    },
+    {
+      "category": "A32",
+      "opname": "ラーゼ・スタダホウ",
+      "hp": 20,
+      "pp": 0,
+      "competitive": 6.5,
+      "lowercompetitive": 0,
+      "damageresist": 0,
+      "statusresist": 0
+    },
+    {
+      "category": "A32",
+      "opname": "ラーゼ・スタシャホウ",
+      "hp": 20,
+      "pp": 0,
+      "competitive": 6.5,
+      "lowercompetitive": 0,
+      "damageresist": 0,
+      "statusresist": 0
+    },
+    {
+      "category": "A32",
+      "opname": "ラーゼ・スタピダシャ",
+      "hp": 10,
+      "pp": 3,
+      "competitive": 6.5,
+      "lowercompetitive": 0,
+      "damageresist": 0,
+      "statusresist": 0
+    },
+    {
+      "category": "A32",
+      "opname": "ラーゼ・スタピダホウ",
+      "hp": 10,
+      "pp": 3,
+      "competitive": 6.5,
+      "lowercompetitive": 0,
+      "damageresist": 0,
+      "statusresist": 0
+    },
+    {
+      "category": "A32",
+      "opname": "ラーゼ・スタピシャホウ",
+      "hp": 10,
+      "pp": 3,
+      "competitive": 6.5,
+      "lowercompetitive": 0,
+      "damageresist": 0,
+      "statusresist": 0
+    },
+    {
+      "category": "A32",
+      "opname": "ラーゼ・スピダシャ",
+      "hp": 0,
+      "pp": 6,
+      "competitive": 6.5,
+      "lowercompetitive": 0,
+      "damageresist": 0,
+      "statusresist": 0
+    },
+    {
+      "category": "A32",
+      "opname": "ラーゼ・スピダホウ",
+      "hp": 0,
+      "pp": 6,
+      "competitive": 6.5,
+      "lowercompetitive": 0,
+      "damageresist": 0,
+      "statusresist": 0
+    },
+    {
+      "category": "A32",
+      "opname": "ラーゼ・スピシャホウ",
+      "hp": 0,
+      "pp": 6,
+      "competitive": 6.5,
+      "lowercompetitive": 0,
+      "damageresist": 0,
+      "statusresist": 0
+    },
+    {
+      "category": "A32",
+      "opname": "ラーゼ・アムダシャ",
+      "hp": 0,
+      "pp": 0,
+      "competitive": 6.5,
+      "lowercompetitive": 1,
+      "damageresist": 0,
+      "statusresist": 0
+    },
+    {
+      "category": "A32",
+      "opname": "ラーゼ・アムダホウ",
+      "hp": 0,
+      "pp": 0,
+      "competitive": 6.5,
+      "lowercompetitive": 1,
+      "damageresist": 0,
+      "statusresist": 0
+    },
+    {
+      "category": "A32",
+      "opname": "ラーゼ・アムシャホウ",
+      "hp": 0,
+      "pp": 0,
+      "competitive": 6.5,
+      "lowercompetitive": 1,
+      "damageresist": 0,
+      "statusresist": 0
+    },
+    {
+      "category": "A32",
+      "opname": "ラーゼ・ガディダシャ",
+      "hp": 0,
+      "pp": 0,
+      "competitive": 6.5,
+      "lowercompetitive": 0,
+      "damageresist": 2.5,
+      "statusresist": 0
+    },
+    {
+      "category": "A32",
+      "opname": "ラーゼ・ガディダホウ",
+      "hp": 0,
+      "pp": 0,
+      "competitive": 6.5,
+      "lowercompetitive": 0,
+      "damageresist": 2.5,
+      "statusresist": 0
+    },
+    {
+      "category": "A32",
+      "opname": "ラーゼ・ガディシャホウ",
+      "hp": 0,
+      "pp": 0,
+      "competitive": 6.5,
+      "lowercompetitive": 0,
+      "damageresist": 2.5,
+      "statusresist": 0
+    },
+    {
+      "category": "A32",
+      "opname": "ラーゼ・レジダシャ",
+      "hp": 0,
+      "pp": 0,
+      "competitive": 6.5,
+      "lowercompetitive": 0,
+      "damageresist": 0,
+      "statusresist": 20
+    },
+    {
+      "category": "A32",
+      "opname": "ラーゼ・レジダホウ",
+      "hp": 0,
+      "pp": 0,
+      "competitive": 6.5,
+      "lowercompetitive": 0,
+      "damageresist": 0,
+      "statusresist": 20
+    },
+    {
+      "category": "A32",
+      "opname": "ラーゼ・レジシャホウ",
+      "hp": 0,
+      "pp": 0,
+      "competitive": 6.5,
+      "lowercompetitive": 0,
+      "damageresist": 0,
+      "statusresist": 20
+    },
+    {
+      "category": "A32",
+      "opname": "ユーゼ・スタムパルフト",
+      "hp": 20,
+      "pp": 0,
+      "competitive": 7.5,
+      "lowercompetitive": 0,
+      "damageresist": 0,
+      "statusresist": 0
+    },
+    {
+      "category": "A32",
+      "opname": "ユーゼ・スピレパルフト",
+      "hp": 0,
+      "pp": 6,
+      "competitive": 7.5,
+      "lowercompetitive": 0,
+      "damageresist": 0,
+      "statusresist": 0
+    },
+    {
+      "category": "A32",
+      "opname": "ユーゼ・スタピパルフト",
+      "hp": 10,
+      "pp": 3,
+      "competitive": 7.5,
+      "lowercompetitive": 0,
+      "damageresist": 0,
+      "statusresist": 0
+    },
+    {
+      "category": "A32",
+      "opname": "ユーゼ・アルムパルフト",
+      "hp": 0,
+      "pp": 0,
+      "competitive": 7.5,
+      "lowercompetitive": 1,
+      "damageresist": 0,
+      "statusresist": 0
+    },
+    {
+      "category": "A32",
+      "opname": "ユーゼ・ガーディパルフト",
+      "hp": 0,
+      "pp": 0,
+      "competitive": 7.5,
+      "lowercompetitive": 0,
+      "damageresist": 2.5,
+      "statusresist": 0
+    },
+    {
+      "category": "A32",
+      "opname": "ユーゼ・レジリパルフト",
+      "hp": 0,
+      "pp": 0,
+      "competitive": 7.5,
+      "lowercompetitive": 0,
+      "damageresist": 0,
+      "statusresist": 20
+    },
+    {
+      "category": "A32",
+      "opname": "ユーゼ・スタダシャ",
+      "hp": 20,
+      "pp": 0,
+      "competitive": 7.5,
+      "lowercompetitive": 0,
+      "damageresist": 0,
+      "statusresist": 0
+    },
+    {
+      "category": "A32",
+      "opname": "ユーゼ・スタダホウ",
+      "hp": 20,
+      "pp": 0,
+      "competitive": 7.5,
+      "lowercompetitive": 0,
+      "damageresist": 0,
+      "statusresist": 0
+    },
+    {
+      "category": "A32",
+      "opname": "ユーゼ・スタシャホウ",
+      "hp": 20,
+      "pp": 0,
+      "competitive": 7.5,
+      "lowercompetitive": 0,
+      "damageresist": 0,
+      "statusresist": 0
+    },
+    {
+      "category": "A32",
+      "opname": "ユーゼ・スタピダシャ",
+      "hp": 10,
+      "pp": 3,
+      "competitive": 7.5,
+      "lowercompetitive": 0,
+      "damageresist": 0,
+      "statusresist": 0
+    },
+    {
+      "category": "A32",
+      "opname": "ユーゼ・スタピダホウ",
+      "hp": 10,
+      "pp": 3,
+      "competitive": 7.5,
+      "lowercompetitive": 0,
+      "damageresist": 0,
+      "statusresist": 0
+    },
+    {
+      "category": "A32",
+      "opname": "ユーゼ・スタピシャホウ",
+      "hp": 10,
+      "pp": 3,
+      "competitive": 7.5,
+      "lowercompetitive": 0,
+      "damageresist": 0,
+      "statusresist": 0
+    },
+    {
+      "category": "A32",
+      "opname": "ユーゼ・スピダシャ",
+      "hp": 0,
+      "pp": 6,
+      "competitive": 7.5,
+      "lowercompetitive": 0,
+      "damageresist": 0,
+      "statusresist": 0
+    },
+    {
+      "category": "A32",
+      "opname": "ユーゼ・スピダホウ",
+      "hp": 0,
+      "pp": 6,
+      "competitive": 7.5,
+      "lowercompetitive": 0,
+      "damageresist": 0,
+      "statusresist": 0
+    },
+    {
+      "category": "A32",
+      "opname": "ユーゼ・スピシャホウ",
+      "hp": 0,
+      "pp": 6,
+      "competitive": 7.5,
+      "lowercompetitive": 0,
+      "damageresist": 0,
+      "statusresist": 0
+    },
+    {
+      "category": "A32",
+      "opname": "ユーゼ・アムダシャ",
+      "hp": 0,
+      "pp": 0,
+      "competitive": 7.5,
+      "lowercompetitive": 1,
+      "damageresist": 0,
+      "statusresist": 0
+    },
+    {
+      "category": "A32",
+      "opname": "ユーゼ・アムダホウ",
+      "hp": 0,
+      "pp": 0,
+      "competitive": 7.5,
+      "lowercompetitive": 1,
+      "damageresist": 0,
+      "statusresist": 0
+    },
+    {
+      "category": "A32",
+      "opname": "ユーゼ・アムシャホウ",
+      "hp": 0,
+      "pp": 0,
+      "competitive": 7.5,
+      "lowercompetitive": 1,
+      "damageresist": 0,
+      "statusresist": 0
+    },
+    {
+      "category": "A32",
+      "opname": "ユーゼ・ガディダシャ",
+      "hp": 0,
+      "pp": 0,
+      "competitive": 7.5,
+      "lowercompetitive": 0,
+      "damageresist": 2.5,
+      "statusresist": 0
+    },
+    {
+      "category": "A32",
+      "opname": "ユーゼ・ガディダホウ",
+      "hp": 0,
+      "pp": 0,
+      "competitive": 7.5,
+      "lowercompetitive": 0,
+      "damageresist": 2.5,
+      "statusresist": 0
+    },
+    {
+      "category": "A32",
+      "opname": "ユーゼ・ガディシャホウ",
+      "hp": 0,
+      "pp": 0,
+      "competitive": 7.5,
+      "lowercompetitive": 0,
+      "damageresist": 2.5,
+      "statusresist": 0
+    },
+    {
+      "category": "A32",
+      "opname": "ユーゼ・レジダシャ",
+      "hp": 0,
+      "pp": 0,
+      "competitive": 7.5,
+      "lowercompetitive": 0,
+      "damageresist": 0,
+      "statusresist": 20
+    },
+    {
+      "category": "A32",
+      "opname": "ユーゼ・レジダホウ",
+      "hp": 0,
+      "pp": 0,
+      "competitive": 7.5,
+      "lowercompetitive": 0,
+      "damageresist": 0,
+      "statusresist": 20
+    },
+    {
+      "category": "A32",
+      "opname": "ユーゼ・レジシャホウ",
+      "hp": 0,
+      "pp": 0,
+      "competitive": 7.5,
+      "lowercompetitive": 0,
+      "damageresist": 0,
+      "statusresist": 20
+    },
+    {
+      "category": "A13",
+      "opname": "ラディ・スタムパルフト",
+      "hp": 20,
+      "pp": 0,
+      "competitive": 6,
+      "lowercompetitive": 3.5,
+      "damageresist": 0,
+      "statusresist": 0
+    },
+    {
+      "category": "A13",
+      "opname": "ラディ・スピレパルフト",
+      "hp": 0,
+      "pp": 6,
+      "competitive": 6,
+      "lowercompetitive": 3.5,
+      "damageresist": 0,
+      "statusresist": 0
+    },
+    {
+      "category": "A13",
+      "opname": "ラディ・スタピパルフト",
+      "hp": 10,
+      "pp": 3,
+      "competitive": 6,
+      "lowercompetitive": 3.5,
+      "damageresist": 0,
+      "statusresist": 0
+    },
+    {
+      "category": "A13",
+      "opname": "ラディ・アルムパルフト",
+      "hp": 0,
+      "pp": 0,
+      "competitive": 6,
+      "lowercompetitive": 4.5,
+      "damageresist": 0,
+      "statusresist": 0
+    },
+    {
+      "category": "A13",
+      "opname": "ラディ・ガーディパルフト",
+      "hp": 0,
+      "pp": 0,
+      "competitive": 6,
+      "lowercompetitive": 3.5,
+      "damageresist": 2.5,
+      "statusresist": 0
+    },
+    {
+      "category": "A13",
+      "opname": "ラディ・レジリパルフト",
+      "hp": 0,
+      "pp": 0,
+      "competitive": 6,
+      "lowercompetitive": 3.5,
+      "damageresist": 0,
+      "statusresist": 20
+    },
+    {
+      "category": "A13",
+      "opname": "ラディ・スタダシャ",
+      "hp": 20,
+      "pp": 0,
+      "competitive": 6,
+      "lowercompetitive": 3.5,
+      "damageresist": 0,
+      "statusresist": 0
+    },
+    {
+      "category": "A13",
+      "opname": "ラディ・スタダホウ",
+      "hp": 20,
+      "pp": 0,
+      "competitive": 6,
+      "lowercompetitive": 3.5,
+      "damageresist": 0,
+      "statusresist": 0
+    },
+    {
+      "category": "A13",
+      "opname": "ラディ・スタシャホウ",
+      "hp": 20,
+      "pp": 0,
+      "competitive": 6,
+      "lowercompetitive": 3.5,
+      "damageresist": 0,
+      "statusresist": 0
+    },
+    {
+      "category": "A13",
+      "opname": "ラディ・スタピダシャ",
+      "hp": 10,
+      "pp": 3,
+      "competitive": 6,
+      "lowercompetitive": 3.5,
+      "damageresist": 0,
+      "statusresist": 0
+    },
+    {
+      "category": "A13",
+      "opname": "ラディ・スタピダホウ",
+      "hp": 10,
+      "pp": 3,
+      "competitive": 6,
+      "lowercompetitive": 3.5,
+      "damageresist": 0,
+      "statusresist": 0
+    },
+    {
+      "category": "A13",
+      "opname": "ラディ・スタピシャホウ",
+      "hp": 10,
+      "pp": 3,
+      "competitive": 6,
+      "lowercompetitive": 3.5,
+      "damageresist": 0,
+      "statusresist": 0
+    },
+    {
+      "category": "A13",
+      "opname": "ラディ・スピダシャ",
+      "hp": 0,
+      "pp": 6,
+      "competitive": 6,
+      "lowercompetitive": 3.5,
+      "damageresist": 0,
+      "statusresist": 0
+    },
+    {
+      "category": "A13",
+      "opname": "ラディ・スピダホウ",
+      "hp": 0,
+      "pp": 6,
+      "competitive": 6,
+      "lowercompetitive": 3.5,
+      "damageresist": 0,
+      "statusresist": 0
+    },
+    {
+      "category": "A13",
+      "opname": "ラディ・スピシャホウ",
+      "hp": 0,
+      "pp": 6,
+      "competitive": 6,
+      "lowercompetitive": 3.5,
+      "damageresist": 0,
+      "statusresist": 0
+    },
+    {
+      "category": "A13",
+      "opname": "ラディ・アムダシャ",
+      "hp": 0,
+      "pp": 0,
+      "competitive": 6,
+      "lowercompetitive": 4.5,
+      "damageresist": 0,
+      "statusresist": 0
+    },
+    {
+      "category": "A13",
+      "opname": "ラディ・アムダホウ",
+      "hp": 0,
+      "pp": 0,
+      "competitive": 6,
+      "lowercompetitive": 4.5,
+      "damageresist": 0,
+      "statusresist": 0
+    },
+    {
+      "category": "A13",
+      "opname": "ラディ・アムシャホウ",
+      "hp": 0,
+      "pp": 0,
+      "competitive": 6,
+      "lowercompetitive": 4.5,
+      "damageresist": 0,
+      "statusresist": 0
+    },
+    {
+      "category": "A13",
+      "opname": "ラディ・ガディダシャ",
+      "hp": 0,
+      "pp": 0,
+      "competitive": 6,
+      "lowercompetitive": 3.5,
+      "damageresist": 2.5,
+      "statusresist": 0
+    },
+    {
+      "category": "A13",
+      "opname": "ラディ・ガディダホウ",
+      "hp": 0,
+      "pp": 0,
+      "competitive": 6,
+      "lowercompetitive": 3.5,
+      "damageresist": 2.5,
+      "statusresist": 0
+    },
+    {
+      "category": "A13",
+      "opname": "ラディ・ガディシャホウ",
+      "hp": 0,
+      "pp": 0,
+      "competitive": 6,
+      "lowercompetitive": 3.5,
+      "damageresist": 2.5,
+      "statusresist": 0
+    },
+    {
+      "category": "A13",
+      "opname": "ラディ・レジダシャ",
+      "hp": 0,
+      "pp": 0,
+      "competitive": 6,
+      "lowercompetitive": 3.5,
+      "damageresist": 0,
+      "statusresist": 20
+    },
+    {
+      "category": "A13",
+      "opname": "ラディ・レジダホウ",
+      "hp": 0,
+      "pp": 0,
+      "competitive": 6,
+      "lowercompetitive": 3.5,
+      "damageresist": 0,
+      "statusresist": 20
+    },
+    {
+      "category": "A13",
+      "opname": "ラディ・レジシャホウ",
+      "hp": 0,
+      "pp": 0,
+      "competitive": 6,
+      "lowercompetitive": 3.5,
+      "damageresist": 0,
+      "statusresist": 20
+    },
+    {
+      "category": "A13",
+      "opname": "ユディ・スタムパルフト",
+      "hp": 20,
+      "pp": 0,
+      "competitive": 7,
+      "lowercompetitive": 4,
+      "damageresist": 0,
+      "statusresist": 0
+    },
+    {
+      "category": "A13",
+      "opname": "ユディ・スピレパルフト",
+      "hp": 0,
+      "pp": 6,
+      "competitive": 7,
+      "lowercompetitive": 4,
+      "damageresist": 0,
+      "statusresist": 0
+    },
+    {
+      "category": "A13",
+      "opname": "ユディ・スタピパルフト",
+      "hp": 10,
+      "pp": 3,
+      "competitive": 7,
+      "lowercompetitive": 4,
+      "damageresist": 0,
+      "statusresist": 0
+    },
+    {
+      "category": "A13",
+      "opname": "ユディ・アルムパルフト",
+      "hp": 0,
+      "pp": 0,
+      "competitive": 7,
+      "lowercompetitive": 5,
+      "damageresist": 0,
+      "statusresist": 0
+    },
+    {
+      "category": "A13",
+      "opname": "ユディ・ガーディパルフト",
+      "hp": 0,
+      "pp": 0,
+      "competitive": 7,
+      "lowercompetitive": 4,
+      "damageresist": 2.5,
+      "statusresist": 0
+    },
+    {
+      "category": "A13",
+      "opname": "ユディ・レジリパルフト",
+      "hp": 0,
+      "pp": 0,
+      "competitive": 7,
+      "lowercompetitive": 4,
+      "damageresist": 0,
+      "statusresist": 20
+    },
+    {
+      "category": "A13",
+      "opname": "ユディ・スタダシャ",
+      "hp": 20,
+      "pp": 0,
+      "competitive": 7,
+      "lowercompetitive": 4,
+      "damageresist": 0,
+      "statusresist": 0
+    },
+    {
+      "category": "A13",
+      "opname": "ユディ・スタダホウ",
+      "hp": 20,
+      "pp": 0,
+      "competitive": 7,
+      "lowercompetitive": 4,
+      "damageresist": 0,
+      "statusresist": 0
+    },
+    {
+      "category": "A13",
+      "opname": "ユディ・スタシャホウ",
+      "hp": 20,
+      "pp": 0,
+      "competitive": 7,
+      "lowercompetitive": 4,
+      "damageresist": 0,
+      "statusresist": 0
+    },
+    {
+      "category": "A13",
+      "opname": "ユディ・スタピダシャ",
+      "hp": 10,
+      "pp": 3,
+      "competitive": 7,
+      "lowercompetitive": 4,
+      "damageresist": 0,
+      "statusresist": 0
+    },
+    {
+      "category": "A13",
+      "opname": "ユディ・スタピダホウ",
+      "hp": 10,
+      "pp": 3,
+      "competitive": 7,
+      "lowercompetitive": 4,
+      "damageresist": 0,
+      "statusresist": 0
+    },
+    {
+      "category": "A13",
+      "opname": "ユディ・スタピシャホウ",
+      "hp": 10,
+      "pp": 3,
+      "competitive": 7,
+      "lowercompetitive": 4,
+      "damageresist": 0,
+      "statusresist": 0
+    },
+    {
+      "category": "A13",
+      "opname": "ユディ・スピダシャ",
+      "hp": 0,
+      "pp": 6,
+      "competitive": 7,
+      "lowercompetitive": 4,
+      "damageresist": 0,
+      "statusresist": 0
+    },
+    {
+      "category": "A13",
+      "opname": "ユディ・スピダホウ",
+      "hp": 0,
+      "pp": 6,
+      "competitive": 7,
+      "lowercompetitive": 4,
+      "damageresist": 0,
+      "statusresist": 0
+    },
+    {
+      "category": "A13",
+      "opname": "ユディ・スピシャホウ",
+      "hp": 0,
+      "pp": 6,
+      "competitive": 7,
+      "lowercompetitive": 4,
+      "damageresist": 0,
+      "statusresist": 0
+    },
+    {
+      "category": "A13",
+      "opname": "ユディ・アムダシャ",
+      "hp": 0,
+      "pp": 0,
+      "competitive": 7,
+      "lowercompetitive": 5,
+      "damageresist": 0,
+      "statusresist": 0
+    },
+    {
+      "category": "A13",
+      "opname": "ユディ・アムダホウ",
+      "hp": 0,
+      "pp": 0,
+      "competitive": 7,
+      "lowercompetitive": 5,
+      "damageresist": 0,
+      "statusresist": 0
+    },
+    {
+      "category": "A13",
+      "opname": "ユディ・アムシャホウ",
+      "hp": 0,
+      "pp": 0,
+      "competitive": 7,
+      "lowercompetitive": 5,
+      "damageresist": 0,
+      "statusresist": 0
+    },
+    {
+      "category": "A13",
+      "opname": "ユディ・ガディダシャ",
+      "hp": 0,
+      "pp": 0,
+      "competitive": 7,
+      "lowercompetitive": 4,
+      "damageresist": 2.5,
+      "statusresist": 0
+    },
+    {
+      "category": "A13",
+      "opname": "ユディ・ガディダホウ",
+      "hp": 0,
+      "pp": 0,
+      "competitive": 7,
+      "lowercompetitive": 4,
+      "damageresist": 2.5,
+      "statusresist": 0
+    },
+    {
+      "category": "A13",
+      "opname": "ユディ・ガディシャホウ",
+      "hp": 0,
+      "pp": 0,
+      "competitive": 7,
+      "lowercompetitive": 4,
+      "damageresist": 2.5,
+      "statusresist": 0
+    },
+    {
+      "category": "A13",
+      "opname": "ユディ・レジダシャ",
+      "hp": 0,
+      "pp": 0,
+      "competitive": 7,
+      "lowercompetitive": 4,
+      "damageresist": 0,
+      "statusresist": 20
+    },
+    {
+      "category": "A13",
+      "opname": "ユディ・レジダホウ",
+      "hp": 0,
+      "pp": 0,
+      "competitive": 7,
+      "lowercompetitive": 4,
+      "damageresist": 0,
+      "statusresist": 20
+    },
+    {
+      "category": "A13",
+      "opname": "ユディ・レジシャホウ",
+      "hp": 0,
+      "pp": 0,
+      "competitive": 7,
+      "lowercompetitive": 4,
+      "damageresist": 0,
+      "statusresist": 20
+    }
+  ],
+  "ex": [
+    {
+      "category": "EX",
+      "opname": "EXアヴォイドオンスロートⅡ H",
+      "hp": 25,
+      "pp": 0,
+      "competitive": 5.5,
+      "lowercompetitive": 2,
+      "damageresist": 0,
+      "statusresist": 0
+    },
+    {
+      "category": "EX",
+      "opname": "EXアヴォイドオンスロートⅡ P",
+      "hp": 0,
+      "pp": 3,
+      "competitive": 5.5,
+      "lowercompetitive": 2,
+      "damageresist": 0,
+      "statusresist": 0
+    },
+    {
+      "category": "EX",
+      "opname": "EXアヴォイドオンスロートⅡ X",
+      "hp": 15,
+      "pp": 2,
+      "competitive": 5.5,
+      "lowercompetitive": 2,
+      "damageresist": 0,
+      "statusresist": 0
+    },
+    {
+      "category": "EX",
+      "opname": "EXアヴォイドオンスロートⅡ D",
+      "hp": 0,
+      "pp": 0,
+      "competitive": 5.5,
+      "lowercompetitive": 2,
+      "damageresist": 1,
+      "statusresist": 0
+    },
+    {
+      "category": "EX",
+      "opname": "EXアヴォイドオンスロートⅡ R",
+      "hp": 0,
+      "pp": 0,
+      "competitive": 5.5,
+      "lowercompetitive": 2,
+      "damageresist": 0,
+      "statusresist": 5
+    },
+    {
+      "category": "EX",
+      "opname": "EXアヴォイドオンスロートⅡ A",
+      "hp": 25,
+      "pp": 3,
+      "competitive": 5.5,
+      "lowercompetitive": 2,
+      "damageresist": 0,
+      "statusresist": 5
+    }
+  ]
+}
