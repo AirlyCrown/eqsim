@@ -1,6 +1,7 @@
 {
   "name": "eqsim",
   "version": "0.0.0",
+  "homepage": "https://airlycrown.github.io/eqsim/",
   "private": true,
   "type": "module",
   "scripts": {
