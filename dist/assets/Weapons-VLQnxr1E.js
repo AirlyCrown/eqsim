@@ -1,1 +1,0 @@
-import{I as e,Mt as t,d as n,m as r,t as i}from"./_plugin-vue_export-helper-ByPsqPD1.js";var a={};function o(i,a){return e(),r(`div`,null,[n(`h1`,null,`ここは「`+t(i.$route.name)+`」ページです`,1)])}var s=i(a,[[`render`,o]]);export{s as default};
