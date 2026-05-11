@@ -36,11 +36,5 @@
 import { useSimulatorStore } from "@/stores/simulator";
 
 const store = useSimulatorStore();
-const weaponMasterList = [
-  "ウィンガード",
-  "レクシオ",
-  "エレディム",
-  "コルディーク",
-  "ゼフェット",
-];
+const weaponMasterList = ["スプラディオ", "レクシオ"];
 </script>

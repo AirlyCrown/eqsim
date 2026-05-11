@@ -1,1 +1,0 @@
-import{g as e,y as t,z as n,zt as r}from"./vue.runtime.esm-bundler-BhYj3iFp.js";import{t as i}from"./index-DbjwZiJX.js";var a={};function o(i,a){return n(),t(`div`,null,[e(`h1`,null,`ここは「`+r(i.$route.name)+`」ページです`,1)])}var s=i(a,[[`render`,o]]);export{s as default};
